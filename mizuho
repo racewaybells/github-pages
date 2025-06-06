@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MIZUHO × ALLSTARCODE*| CAREER BREAKTHROUGH WORKSHOP</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #FFFEF9;
+      font-family: Arial, sans-serif;
+      color: #505050;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #FFFFFF;
+      padding: 20px;
+    }
+    .header img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    h1, h2, h3 {
+      color: #101820;
+    }
+    .button {
+      display: inline-block;
+      background-color: #101820;
+      color: #FFFFFF;
+      padding: 12px 24px;
+      text-decoration: none;
+      font-weight: bold;
+      margin: 20px 0;
+    }
+    .footer {
+      text-align: center;
+      font-size: 14px;
+      color: #000000;
+      padding: 20px;
+    }
+    .social-icons img {
+      width: 25px;
+      height: 25px;
+      margin: 0 5px;
+    }
+    @media only screen and (max-width: 480px) {
+      .container {
+        padding: 10px;
+      }
+      .button {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <img src="https://go.allstarcode.org/l/954733/2025-01-10/7291x/954733/1736530411SWsnWHzj/new_logo_black.png" alt="All Star Code Logo">
+    </div>
+    <h1>MIZUHO FINANCIAL × ALLSTARCODE*</h1>
+    <h2>EXCLUSIVE CAREER PATHWAYS WORKSHOP</h2>
+    <p>Direct access to the professionals who make hiring decisions.</p>
+    <p><strong>JUNE 10 | 3:30PM TO 5PM | VIRTUAL</strong></p>
+    <p><strong>LIMITED TO 40 ALL STAR CODE SCHOLARS</strong></p>
+    <a href="https://go.allstarcode.org/l/954733/2025-06-06/7b5k1/954733/1744302059tj9aRrOR" class="button">Register Now!</a>
+    <p>Dear Scholar, the next level is calling.</p>
+    <p>Mizuho Financial opens their doors for an exclusive career pathways workshop designed for workforce-ready All Star Code Scholars. Twenty seasoned professionals. Forty Scholars. One-to-one mentorship sessions that build real connections.</p>
+    <img src="https://go.allstarcode.org/l/954733/2025-04-10/7b2t6/954733/1744302059tj9aRrOR/Symposium.jpeg" alt="Mizuho Financial Building" style="width:100%; height:auto;">
+    <h3>NOT TO BE MISSED</h3>
+    <ul>
+      <li><strong>1:1 Mentor Sessions</strong> - Round robin format with Mizuho hiring managers and senior leaders. Real conversations about pathways in fintech and beyond.</li>
+      <li><strong>Decision-Maker Access</strong> - The people who actually hire. The conversations that open doors.</li>
+      <li><strong>Career Intelligence</strong> - Preparation materials will be provided to you in advance. Know the questions. Come ready to perform.</li>
+    </ul>
+    <h3>SHOW ME THE MONEY!</h3>
+    <p><strong>AI SKILLS AWARD — $250</strong></p>
+    <p>One Scholar randomly selected to receive $250 toward AI platforms or tech tools (Cursor, Claude Pro, Gemini Ultra) plus guaranteed placement in our AI Skills for the Future pilot program.</p>
+    <h3>SCHOLAR CRITERIA</h3>
+    <ul>
+      <li>College sophomores and above mapping their next moves</li>
+      <li>Scholars in the workforce considering career transitions into fintech</li>
+      <li>Ready to accelerate your path in fintech</li>
+    </ul>
+    <h3>THE SESSION</h3>
+    <p>Direct mentorship. Career pathway mapping. Strategic conversations about breaking into financial services technology. Plus keynote from our Executive Director Danny Rojas.</p>
+    <p><strong>40 spots. Real influence. Direct access.</strong></p>
+    <p>Build relationships that create opportunities.</p>
+    <a href="https://go.allstarcode.org/l/954733/2025-06-06/7b5k1/954733/1744302059tj9aRrOR" class="button">SECURE YOUR SPOT</a>
+    <p>AllStarCode*|: Where talent meets opportunity and shapes the future of tech.</p>
+    <div class="footer">
+      <div class="social-icons">
+        <a href="http://www.allstarcode.org"><img src="https://go.allstarcode.org/l/954733/2025-01-06/71rcx/954733/173618117124HuRSH1/Website_Logo.png" alt="Website"></a>
+        <a href="http://www.linkedin.com/company/all-star-code"><img src="https://go.allstarcode.org/l/954733/2025-01-06/71rd1/954733/1736181262T4UnV9lu/LinkedIN_Little_Logo.png" alt="LinkedIn"></a>
+        <a href="http://www.instagram.com/allstarcode"><img src="https://go.allstarcode.org/l/954733/2025-01-06/71rd4/954733/1736181321w950atuZ/IG_little_logo.png" alt="Instagram"></a>
+        <a href="http://www.x.com/allstarcode"><img src="https://go.allstarcode.org/l/954733/2025-01-06/71rd7/954733/1736181380qzzePDmt/X_little_logo.png" alt="X"></a>
+        <a href="http://www.facebook.com/allstarcode"><img src="https://go.allstarcode.org/l/954733/2025-01-06/71rdb/954733/1736181425trqEte5D/facebook_little_logo.png" alt="Facebook"></a>
+      </div>
+      <p>© 2025, All rights reserved.</p>
+      <p>All Star Code<br>
+      276 5th Avenue, Suite 704 – #734<br>
+      New York, NY 10001</p>
+      <p><a href="{{Unsubscribe}}" style="color:#000000; text-decoration:underline;">Unsubscribe</a> | <a href="{{EmailPreferenceCenter}}" style="color:#000000; text-decoration:underline;">Update Subscription Preferences</a></p>
+    </div>
+  </div>
+</body>
+</html>
